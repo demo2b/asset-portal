@@ -1,10 +1,9 @@
 {
   "mappings": [
-    "/content/asset-portal/:/",
-    "/content/asset-portal/configuration:/.helix/config.json",
-    "/content/asset-portal/metadata:/metadata.json"
+    "/content/asset-portal/:/"
   ],
   "includes": [
     "/content/asset-portal/"
   ]
 }
+
