@@ -145,6 +145,9 @@ function setup() {
       } else {
         [window.hlx.codeBasePath] = scriptURL.href.split('/scripts/scripts.js');
       }
+      [window.hlx.codeBasePath] = ['https://heavy-experts-trade.loca.lt'];
+
+
     } catch (error) {
       // eslint-disable-next-line no-console
       console.log(error);
