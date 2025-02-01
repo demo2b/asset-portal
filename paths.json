@@ -1,10 +1,10 @@
 {
   "mappings": [
-    "/content/brand-portal/:/",
-    "/content/brand-portal/configuration:/.helix/config.json",
-    "/content/brand-portal/metadata:/metadata.json"
+    "/content/asset-portal/:/",
+    "/content/asset-portal/configuration:/.helix/config.json",
+    "/content/asset-portal/metadata:/metadata.json"
   ],
   "includes": [
-    "/content/brand-portal/"
+    "/content/asset-portal/"
   ]
 }
