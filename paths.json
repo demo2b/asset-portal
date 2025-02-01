@@ -1,9 +1,6 @@
 {
   "mappings": [
     "/content/asset-portal/:/"
-  ],
-  "includes": [
-    "/content/asset-portal/"
   ]
 }
 
