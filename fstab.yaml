@@ -1,0 +1,5 @@
+mountpoints:
+  /:
+    url: "https://a3e7-2a04-cec2-21-5b73-8ca6-e57-63da-b6e4.ngrok-free.app/bin/franklin.delivery/demo2b/asset-portal/main"
+    type: "markup"
+    suffix: ".html"
